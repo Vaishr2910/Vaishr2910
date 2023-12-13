@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vaishnavi
+- 👋 Hello, I’m Vaishnavi
 - 🌱  I am budding Data Scientist passionate about unraveling insights from complex datasets
       I'm proficient in Python and R. Eager to contribute to impactful projects and always up for a good data science chat. 
 - 📫  Let's connect at vaishnaviraskar1996@gmail.com! 🚀📊
